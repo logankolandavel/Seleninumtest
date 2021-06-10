@@ -1,0 +1,8 @@
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at stepDefinitions.StepDefinition.i_enter_username_and_password_and_click_with_correct_credentials(StepDefinition.java:39)
+	at ?.I Enter username and password and click with correct credentials(file:///C:/Users/klogu/CucumberLearning/Automation/src/test/java/features/Login.feature:5)
+
